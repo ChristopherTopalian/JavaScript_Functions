@@ -9,7 +9,7 @@ function getMonthDayYear()
     return monthDayYear;
 }
 
-// console.log(getMonthDayYear());
+console.log(getMonthDayYear());
 
 /*
 11/18/2024
